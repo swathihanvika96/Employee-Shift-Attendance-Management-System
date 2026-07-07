@@ -1,0 +1,11 @@
+2026-07-07 10:57:00,787 INFO GET http://127.0.0.1:8000/
+2026-07-07 10:57:10,650 INFO GET http://127.0.0.1:8000/docs
+2026-07-07 10:57:10,759 INFO GET http://127.0.0.1:8000/openapi.json
+2026-07-07 10:58:24,700 INFO POST http://127.0.0.1:8000/auth/register
+2026-07-07 11:04:19,186 INFO GET http://127.0.0.1:8000/
+2026-07-07 11:04:24,532 INFO GET http://127.0.0.1:8000/docs
+2026-07-07 11:04:24,632 INFO GET http://127.0.0.1:8000/openapi.json
+2026-07-07 11:04:58,061 INFO POST http://127.0.0.1:8000/auth/register
+2026-07-07 11:24:14,866 INFO User Registered : admin@gmail.com
+2026-07-07 11:25:45,939 INFO User Login : admin@gmail.com
+2026-07-07 11:26:00,439 INFO User Login : admin@gmail.com
